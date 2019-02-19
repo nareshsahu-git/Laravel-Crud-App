@@ -1,2 +1,3 @@
-# Tailoring-App
-Tailoring app is solving a particular problem which exists in our society.
+# Laravel-App
+This app is under going in process. I will update this app on github soon.
+Thank you.
